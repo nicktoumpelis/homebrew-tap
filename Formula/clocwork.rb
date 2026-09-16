@@ -8,9 +8,9 @@ class Clocwork < Formula
   license "MIT"
 
   bottle do
-    root_url "https://github.com/nicktoumpelis/homebrew-tap/releases/download/clocwork-0.1.0"
-    sha256 cellar: :any_skip_relocation, arm64_tahoe:  "fef040e2f00d02cbc9ae35541f85606ed319f55883a05f7d3fc6af71256a74bd"
-    sha256 cellar: :any_skip_relocation, x86_64_linux: "bd80b2e8ee76cf7f6f20172ff96ca762a7e9d791b40e824e45e242c97eb82fb3"
+    root_url "https://github.com/nicktoumpelis/homebrew-tap/releases/download/clocwork-0.1.1"
+    sha256 cellar: :any_skip_relocation, arm64_tahoe:  "e8e3ffb7ea3492214197624f23996c479ab01bdd787ba2dfc0a1658912c9bdca"
+    sha256 cellar: :any_skip_relocation, x86_64_linux: "21f6ef469d2780e24d4b3b4949ee5be46afd10933890da95c9b27a41ba4ded06"
   end
 
   depends_on "cloc"
