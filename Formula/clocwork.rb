@@ -3,8 +3,8 @@ class Clocwork < Formula
 
   desc "Chart lines of code, AI-assisted commits and token cost over Git history"
   homepage "https://github.com/nicktoumpelis/clocwork"
-  url "https://files.pythonhosted.org/packages/bc/c2/a40adb6b31b4a4591e786ed50cc6d857c63ca3ce6a605875c03dc3fbe130/clocwork-0.1.1.tar.gz"
-  sha256 "c11f68baf2e948dd702a69150aaf5e2f0880c6f3f71723d6e20ed773a96d8212"
+  url "https://files.pythonhosted.org/packages/62/01/c9eaab6ac3fb6c4986c2f5844054d07dcec7bebeb8df1ab49d1d91a57787/clocwork-0.2.0.tar.gz"
+  sha256 "76fa8dfaab1d910ddde3dda188b44070e5511197128953370596d3f99e6c08c2"
   license "MIT"
 
   bottle do
